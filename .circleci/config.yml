@@ -156,3 +156,4 @@ workflows:
           domain: solidus.docs.stoplight.io
           requires:
             - stoplight/push
+
